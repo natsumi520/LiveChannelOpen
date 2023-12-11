@@ -7,6 +7,7 @@
 - 通过仓库的[Releases](https://github.com/natsumi520/LiveChannelOpen/releases)下载
 - 如果您在中国大陆地区请使用[GitMirror](https://gitmirror.com/files.html)等工具加速下载 后续我们会提供网盘下载
 # 包装开源事项
-- 我们在2023年12月15日12:00（北京时间）开源第一代包装（2022版）
+- 我们已开源第一代包装（2022版）
+- 2023年包装将在For李天成镜像直播频道更换2024包装之后开源
 # 对直播频道感兴趣？
 - 欢迎加入For李天成镜像直播频道qq交流群：737693332
